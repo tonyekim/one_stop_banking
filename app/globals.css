@@ -171,7 +171,7 @@
   }
 
   .profile-details {
-    @apply flex flex-col pt-24;
+    @apply flex flex-col pt-24 px-4;
   }
 
   .profile-name {
